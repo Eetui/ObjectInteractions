@@ -1,5 +1,6 @@
 # Object Interactions
 
+This project is made  with Unity 2020.2f1\
 Main project can be found under Assets\00-Students\EetuI\
 I have been doing this project in one of my school courses so that's the reason for the funny path.
 ## Interactions
