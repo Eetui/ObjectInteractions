@@ -1,4 +1,4 @@
-namespace AGP
+namespace ObjectInteractionGame
 {
     namespace EetuI
     {

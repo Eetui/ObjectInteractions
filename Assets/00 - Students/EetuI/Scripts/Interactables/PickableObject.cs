@@ -1,7 +1,7 @@
-using AGP.EetuI.Core;
+using ObjectInteractionGame.EetuI.Core;
 using UnityEngine;
 
-namespace AGP
+namespace ObjectInteractionGame
 {
     namespace EetuI
     {

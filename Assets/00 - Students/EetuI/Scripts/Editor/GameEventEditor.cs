@@ -1,8 +1,8 @@
 using UnityEditor;
 using UnityEngine;
-using AGP.EetuI.Events;
+using ObjectInteractionGame.EetuI.Events;
 
-namespace AGP
+namespace ObjectInteractionGame
 {
     namespace EetuI
     {

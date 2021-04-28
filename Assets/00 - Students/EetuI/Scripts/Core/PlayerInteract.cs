@@ -1,8 +1,8 @@
-using AGP.EetuI.Player;
 using UnityEngine;
-using AGP.EetuI.Events;
+using ObjectInteractionGame.EetuI.Events;
+using ObjectInteractionGame.EetuI.Player;
 
-namespace AGP
+namespace ObjectInteractionGame
 {
     namespace EetuI
     {

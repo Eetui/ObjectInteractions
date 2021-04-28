@@ -1,8 +1,8 @@
-using AGP.EetuI.Core;
-using AGP.EetuI.Events;
+using ObjectInteractionGame.EetuI.Core;
+using ObjectInteractionGame.EetuI.Events;
 using UnityEngine;
 
-namespace AGP
+namespace ObjectInteractionGame
 {
     public class InteractableButton : MonoBehaviour, IInteractable
     {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace AGP
+namespace ObjectInteractionGame
 {
     namespace EetuI
     {
