@@ -19,4 +19,4 @@ I have been doing this project in one of my school courses so that why the funny
 ![Waterfall](https://j.gifs.com/jYQnjl.gif)
 ![Puzzle Element](https://j.gifs.com/vQqjyX.gif)
 
-Some of the functionalities are based on this amazing talk: https://youtu.be/raQ3iHhE_Kk
+Some of the functionalities are inspired by this amazing talk: https://youtu.be/raQ3iHhE_Kk
