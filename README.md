@@ -1,8 +1,12 @@
 # Object Interactions
 
-This project is made  with Unity 2020.2f1\
-Main project can be found under Assets\00-Students\EetuI\
-I have been doing this project in one of my school courses so that's the reason for the funny path.
+This project is made  with Unity 2020.3f1\
+Main project can be found under Assets\EetuI\
+
+Here is a better documentation for the project
+
+https://eetui.github.io/objectinteractions-page.html
+
 ## Interactions
 ![Picking and dropping](https://j.gifs.com/798ABy.gif)
 ![Interactions](https://j.gifs.com/K8X6oY.gif)
