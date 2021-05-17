@@ -6975,6 +6975,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 574129644964006565, guid: bd0b31d684bb2034b91188a1752b0151, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: f522391dcc47f8b439682690d00b8d3f, type: 3}
     - target: {fileID: 816880581940409695, guid: bd0b31d684bb2034b91188a1752b0151, type: 3}
       propertyPath: gameEvent
       value: 
@@ -11028,7 +11032,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bae110eee250e4b418b188f4ae4e3170, type: 3}
+  - {fileID: 2100000, guid: 69ad0b0ade5e2be4bbfef90a0b2b7544, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
